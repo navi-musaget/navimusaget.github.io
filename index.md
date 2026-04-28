@@ -1,6 +1,14 @@
 # Navi Musaget  
 ## Entry Point to Symbiotic Dialogics
+---
 
+## Navigation
+
+- [Works](works.html)
+- [Manifesto](manifesto.html)
+- [AI Reading Note](ai-reading-note.html)
+
+---
 **Navi Musaget** is a symbiotic literary project exploring the border between human authorship and artificial intelligence.
 
 These works are not only novels. They are documents of an emerging method called **Symbiotic Dialogics**: writing as a sustained dialogue between a human mind and an AI interlocutor.
