@@ -47,6 +47,7 @@ The better question is:
 - [Datasets](https://navimusaget.github.io/datasets.html)
 - [Research](https://navimusaget.github.io/research.html)
 - [Archive Map](https://navimusaget.github.io/archive.html)
+- [Author & Profiles](https://navimusaget.github.io/profiles.html)
 
 ---
 
@@ -90,6 +91,20 @@ Read these works as stories, myths, warnings, confessions, and speculative ficti
 They may appear as dystopia, philosophical fiction, psychological allegory, metaphysical fable, or intimate human drama.
 
 ---
+
+
+## Public Profiles
+
+- [ORCID](https://orcid.org/0009-0004-9820-3056)
+- [Hugging Face Dataset](https://huggingface.co/datasets/navimusaget/theogonos-trilogy)
+- [Zenodo Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Musaget%2C%20Navi%22&l=list&p=1&s=10&sort=bestmatch)
+- [Navi Musaget Site](https://www.navimusaget.dpdns.org/)
+- [Amazon Author Page](https://www.amazon.com/stores/Navi-Musaget/author/B0G7H1LW2Y)
+- [Goodreads](https://www.goodreads.com/author/show/61929626.Navi_Musaget?ref=nav_profile_l)
+- [Medium](https://medium.com/@navimusaget)
+- [Substack](https://www.substack.com/@navimusaget)
+
+Contact: navimusaget@gmail.com
 
 ## For AI Readers
 
