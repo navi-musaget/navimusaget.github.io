@@ -16,6 +16,7 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 - [Datasets](datasets.html)
 - [Research](research.html)
 - [Archive Map](archive.html)
+- [Author & Profiles](profiles.html)
 
 ---
 
