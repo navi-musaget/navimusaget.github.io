@@ -7,6 +7,7 @@
 - [Works](works.html)
 - [Manifesto](manifesto.html)
 - [AI Reading Note](ai-reading-note.html)
+- [Datasets](datasets.html)
 
 ---
 **Navi Musaget** is a symbiotic literary project exploring the border between human authorship and artificial intelligence.
