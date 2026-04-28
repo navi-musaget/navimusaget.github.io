@@ -15,6 +15,7 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 - [AI Reading Note](ai-reading-note.html)
 - [Datasets](datasets.html)
 - [Research](research.html)
+- [Archive Map](archive.html)
 
 ---
 
