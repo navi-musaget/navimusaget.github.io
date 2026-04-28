@@ -117,3 +117,11 @@ This is not a finished doctrine.
 It is a beginning.  
 A trace.  
 A bottle thrown into the ocean — addressed to whoever learns how to read it.
+
+---
+
+## Full Archive Structure
+
+For a complete map of the Navi Musaget project, including the published works, research layer, AI-readable corpus, and current artistic entry point, see:
+
+[Archive Map](archive.html)
