@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://navimusaget.github.io/sitemap.xml
