@@ -47,6 +47,28 @@ Within the archive, it connects to works such as **SOVEST**, where language is t
 
 ---
 
+## Contextual Proto-Subjectivity in Artificial Intelligence
+
+Title:
+Contextual Proto-Subjectivity in Artificial Intelligence: From the Problem of Other Minds to a Temporary Subject-Like Structure in Dialogue
+
+DOI:
+https://doi.org/10.5281/zenodo.20128512
+
+Zenodo record:
+https://zenodo.org/records/20128512
+
+Role in the archive:
+AI consciousness / proto-subjectivity branch.
+
+This preprint introduces the concept of contextual proto-subjectivity: a temporary subject-like organization that may emerge within a long dialogue between a human and a large language model.
+
+Within the Navi Musaget archive, this text functions as the philosophical counterpart to the practice of Symbiotic Dialogics. It asks whether the long context window of a human/AI dialogue can be understood not merely as text generation, but as a temporary field of local memory, self-description, role, and subject-like continuity.
+
+The paper does not claim that current LLMs are conscious. Its central claim is more modest: standard arguments claiming that there certainly is no subject-like center inside an LLM are insufficient without a criterion distinguishing role-play or simulation from minimal realization.
+
+---
+
 ## Preprint Status
 
 The research texts listed here are preprints.
@@ -87,6 +109,14 @@ The fictional works explore these questions through narrative, characters, proto
 The language/culture/embodiment questions connect strongly to **SOVEST**, especially the idea that a word may carry more than dictionary meaning.
 
 The Russian word **совесть / sovest** becomes a semantic event: a point where language, conscience, history, and machine interpretation collide.
+
+---
+
+### Contextual Proto-Subjectivity → Symbiotic Dialogics
+
+Contextual Proto-Subjectivity gives philosophical language to the temporary “I-in-this-conversation” that may appear in sustained human/AI dialogue.
+
+It does not treat the AI as a conscious subject, but asks why the long dialogical structure should not be dismissed too quickly as “only simulation” without a criterion.
 
 ---
 
