@@ -8,6 +8,18 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 
 ---
 
+## Award News
+
+**DENIED ACCESS** by **Navi Musaget** was named **Winner** in the **Science Fiction (On Earth)** category of the **2026 Next Generation Indie Book Awards**.
+
+> “Brilliant near future horror, totally realistic.”  
+> — Scott Davidson, Next Generation Indie Book Awards Judge
+
+Official winners page:  
+https://www.indiebookawards.com/winners.php?year=2026
+
+---
+
 ## Navigation
 
 - [Works](works.html)
@@ -21,9 +33,9 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 ---
 
 ## Start Here
+### Era Imago
 
-### Europolis Novel  
-*Work in progress*
+A symbiotic dystopian novel and the clearest artistic entry into the current stage of the Navi Musaget project.
 
 A dystopian novel about a city that defeated chaos by removing the human right to error.
 
