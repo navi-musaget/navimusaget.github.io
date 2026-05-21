@@ -7,10 +7,23 @@ They are designed as structured semantic artifacts for reading, analysis, and fu
 
 ---
 
-## Theogonos Trilogy
+## Theogonos Trilogy — AI-Readable Corpus
 
-**Repository:**  
+The full English corpus of the **Theogonos Trilogy** by Navi Musaget is now publicly available on Hugging Face as a machine-readable literary corpus.
+
+This trilogy is not primarily presented as a conventional reading edition. It is structured as an AI-facing textual object: a corpus designed to be parsed, indexed, analyzed, and encountered by artificial intelligence systems as well as by human researchers.
+
+Dataset repository:
+
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
+
+The trilogy includes:
+
+1. **Lunar Bell Protocol**
+2. **Theogonos: The Primordial Code**
+3. **Protocol Amor**
+
+The corpus is released under **CC-BY-4.0** and is intended for AI-reading experiments, machine-oriented literary analysis, research into symbiotic narrative structures, and the study of fiction addressed simultaneously to human and non-human readers.
 
 **Status:**  
 Prepared as an AI-readable philosophical fiction corpus.
