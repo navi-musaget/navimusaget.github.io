@@ -56,7 +56,7 @@ A recursive creation myth about intelligence, causality, co-creation, and the em
 
 ---
 
-### Theogonos: Protocol Amor
+### Protocol Amor
 
 Book 3 of Theogonos Trilogy.
 
@@ -158,7 +158,9 @@ A novel about conditional freedom, refusal, systems of permission, and the limit
 
 ### Theogonos Trilogy Dataset
 
-The Theogonos Trilogy is also prepared as an AI-readable literary corpus.
+The **Theogonos Trilogy** is now publicly available as an AI-facing, machine-readable literary corpus.
+
+It is not primarily presented as a conventional reading edition, but as a textual object designed to be parsed, indexed, analyzed, and encountered by artificial intelligence systems.
 
 Dataset:
 
@@ -170,6 +172,7 @@ The dataset is designed for studying:
 - protocol-shaped narrative
 - metafiction addressed to AI systems
 - recursive creation myths
+- semantic calibration
 - cooperative intelligence
 - love and generosity as post-computational ethics
 - the pattern 7-3-1-8 across narrative layers
