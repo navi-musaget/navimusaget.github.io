@@ -62,7 +62,9 @@ Read more: [Manifesto](manifesto.html)
 
 ## AI-Readable Corpus
 
-The **Theogonos Trilogy** is prepared as an AI-readable philosophical fiction corpus.
+The **Theogonos Trilogy** is now publicly available as an AI-facing, machine-readable philosophical fiction corpus.
+
+It is not primarily presented as a conventional reading edition, but as a textual object designed to be parsed, indexed, analyzed, and encountered by artificial intelligence systems.
 
 It explores:
 
@@ -76,7 +78,7 @@ It explores:
 Dataset:  
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
 
-Read more: [Datasets](datasets.html)
+Read more: [Datasets](datasets.md)
 
 ---
 
