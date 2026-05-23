@@ -23,6 +23,14 @@ The ORCID record connects the author identity with research records, datasets, a
 
 ---
 
+### PhilPeople
+
+https://philpeople.org/profiles/navi-musaget
+
+Philosophy and research profile connected to philosophy of artificial intelligence, philosophy of mind, AI consciousness, human–AI dialogue, and Symbiotic Dialogics.
+
+---
+
 ## AI-Readable Corpus
 
 ### Hugging Face Dataset
