@@ -122,7 +122,7 @@ It does not treat the AI as a conscious subject, but asks why the long dialogica
 
 ### Research → Theogonos Trilogy
 
-The theoretical concern with human/non-human interpretation connects to the **Theogonos Trilogy**, which is also prepared as an AI-readable literary corpus.
+The theoretical concern with human/non-human interpretation connects to the **Theogonos Trilogy**, which is now publicly available as an AI-facing, machine-readable literary corpus.
 
 Dataset:
 
