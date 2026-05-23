@@ -9,7 +9,7 @@ They are presented as branches of a developing literary method.
 
 ## Start Here
 
-### Europolis Novel  
+### Era Imago
 *Work in progress*
 
 A dystopian novel about a city that defeated chaos by removing the human right to error.
