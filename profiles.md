@@ -81,6 +81,14 @@ Goodreads author profile for reader-facing discovery and book tracking.
 
 ---
 
+### Facebook
+
+https://www.facebook.com/profile.php?id=61589112758218
+
+Navi Musaget on Facebook.
+
+---
+
 ## Essays / Public Notes
 
 ### Medium
