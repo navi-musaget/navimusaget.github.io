@@ -10,13 +10,16 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 
 ## Award News
 
-**DENIED ACCESS** by **Navi Musaget** was named **Winner** in the **Science Fiction (On Earth)** category of the **2026 Next Generation Indie Book Awards**.
+<img src="ngiba-winner-2026.png" alt="Winner, 2026 Next Generation Indie Book Awards" width="110">
 
-> “Brilliant near future horror, totally realistic.”  
-> — Scott Davidson, Next Generation Indie Book Awards Judge
+**DENIED ACCESS** by **Navi Musaget** was named **Winner, Science Fiction (On Earth), 2026 Next Generation Indie Book Awards**.
 
 Official winners page:  
-https://www.indiebookawards.com/winners.php?year=2026
+https://indiebookawards.com/winners.php
+
+This recognition anchors the algorithmic society branch of the Navi Musaget archive: fiction about access, exclusion, automated decision systems, and the hidden violence of procedural care.
+
+Read more: [Works](works.md)
 
 ---
 
