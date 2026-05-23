@@ -76,7 +76,7 @@ Read: [Manifesto](manifesto.html)
 **Hugging Face dataset:**  
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
 
-The **Theogonos Trilogy** is prepared as an AI-readable philosophical fiction corpus.
+The **Theogonos Trilogy** is now publicly available as an AI-facing, machine-readable philosophical fiction corpus.
 
 This layer is designed not only for human literary reading, but also for structural analysis by AI systems.
 
