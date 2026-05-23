@@ -104,11 +104,17 @@ Core records include:
 
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
+- **Contextual Proto-Subjectivity in Artificial Intelligence**
 
 These texts are preprints and conceptual records.  
 They should not be treated as peer-reviewed journal articles.
 
-Their role is to document the theoretical and historical background of the project.
+Their role is to document the theoretical, methodological, and historical background of the project:
+
+- meaning emergence in human/non-human interpretive systems
+- language as a cultural and semantic environment
+- contextual proto-subjectivity in long human/AI dialogue
+- Symbiotic Dialogics as literary practice
 
 Read: [Research](research.html)
 
