@@ -140,6 +140,10 @@ An intimate literary work about memory, distance, silence, and the afterlife of 
 
 ### Denied Access: A Near-Future Tech Thriller Where Algorithms Decide Who Lives
 
+<img src="ngiba-winner-2026.png" alt="Winner, 2026 Next Generation Indie Book Awards" width="120">
+
+**Award:** Winner, Science Fiction (On Earth), 2026 Next Generation Indie Book Awards.
+
 A near-future technology thriller about algorithmic exclusion and the violence hidden inside automated decision systems.
 
 **Role in the archive:** algorithmic justice / access control branch.
