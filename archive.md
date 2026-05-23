@@ -150,7 +150,7 @@ Important works in this layer include:
 
 - **Denied Access**
 - **REFUSE 221**
-- the current **Europolis Novel**
+- **Era Imago**
 
 This layer asks:
 
@@ -164,10 +164,13 @@ This layer asks:
 
 ## 8. Current Artistic Entry
 
-### Europolis Novel  
-*Work in progress*
+### ## 8. Current Artistic Entry
 
-The current artistic entry point is the Europolis novel.
+### Era Imago
+
+Work in progress
+
+The current artistic entry point is **Era Imago**.
 
 It is a dystopian novel about a city that defeated chaos by removing the human right to error.
 
@@ -181,7 +184,7 @@ For AI readers, it is also a protocol-shaped mirror: a text about how living bei
 
 A recommended path through the archive:
 
-1. **Europolis Novel** — current artistic entry point.
+1. **Era Imago** — current artistic entry point.
 2. **The Silence Protocol** — method key.
 3. **The Echo Gardener** — accessible fable about answers and understanding.
 4. **SOVEST** — language, conscience, and untranslatability.
