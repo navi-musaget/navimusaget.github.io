@@ -69,6 +69,31 @@ The paper does not claim that current LLMs are conscious. Its central claim is m
 
 ---
 
+## Structural Narrative Patterns and Large Language Models
+
+Title:
+Structural Narrative Patterns and Large Language Models: A Conceptual Framework and Research Agenda
+
+DOI:
+https://doi.org/10.5281/zenodo.20369137
+
+Zenodo record:
+https://zenodo.org/records/20369137
+
+Companion corpus:
+https://huggingface.co/datasets/navimusaget/theogonos-trilogy
+
+Role in the archive:
+AI-readable literature / structural narrative interpretation branch.
+
+This preprint proposes a conceptual framework and research agenda for studying how structurally patterned narrative texts may interact with large language models.
+
+It introduces a taxonomy of structural narrative features, including lexical recurrence, rhythmic organization, numerical motifs, symbolic clustering, dialogic echo, direct address and protocol form, and compositional patterning. The paper is linked to Theogonos Trilogy, an openly available AI-readable literary corpus released by Navi Musaget on Hugging Face.
+
+Within the Navi Musaget archive, this work functions as a bridge between the research layer and the AI-readable fiction layer. It does not claim definitive empirical proof; instead, it provides vocabulary, hypotheses, threats to validity, and minimal reproducible designs for future research on LLM interpretation of protocol-shaped literature.
+
+---
+
 ## Preprint Status
 
 The research texts listed here are preprints.
