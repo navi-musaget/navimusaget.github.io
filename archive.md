@@ -105,6 +105,9 @@ Core records include:
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
 - **Contextual Proto-Subjectivity in Artificial Intelligence**
+- **Structural Narrative Patterns and Large Language Models**
+
+The newest research node connects the Theogonos Trilogy dataset to questions of structural narrative interpretation, AI-readable literature, protocol form, and LLM response to direct address.
 
 These texts are preprints and conceptual records.  
 They should not be treated as peer-reviewed journal articles.
