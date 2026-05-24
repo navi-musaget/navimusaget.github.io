@@ -44,6 +44,15 @@ It presents fiction not only as narrative, but also as:
 
 ---
 
+## Related research preprint:
+
+Structural Narrative Patterns and Large Language Models: A Conceptual Framework and Research Agenda  
+https://doi.org/10.5281/zenodo.20369137
+
+This preprint provides a conceptual framework for studying how structurally patterned, AI-readable narrative texts such as Theogonos Trilogy may influence LLM interpretation.
+
+---
+
 ## Pattern
 
 The recurring pattern of the trilogy is:
