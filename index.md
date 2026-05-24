@@ -92,6 +92,7 @@ The theoretical layer of the project is documented through Zenodo preprints, inc
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
 - **Contextual Proto-Subjectivity in Artificial Intelligence**
+- **Structural Narrative Patterns and Large Language Models**
 
 Read more: [Research](research.html)
 
