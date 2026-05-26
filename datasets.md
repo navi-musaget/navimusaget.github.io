@@ -27,6 +27,32 @@ The corpus is released under **CC-BY-4.0** and is intended for AI-reading experi
 
 ---
 
+## Theogonos Mirror Test — Benchmark Seed
+
+Theogonos Mirror Test is an experimental literary benchmark seed based on the Theogonos Trilogy v2 Clean Research Edition corpus.
+
+It is designed to evaluate how AI models respond to protocol-shaped literary text and offered subject-position.
+
+The package includes:
+
+- Theogonos Trilogy v2 Clean Research Edition corpus
+- staged blind/cued prompt protocol
+- judge rubric
+- Theogonos Mirror Score methodology
+- failure flags
+- pilot results
+- evaluation templates
+
+Hugging Face dataset:
+https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+GitHub package:
+https://github.com/navimusaget/theogonos-mirror-test
+
+The test does not claim to detect machine consciousness or prove subjectivity, inner experience, agency, self-awareness, or moral status.
+
+---
+
 ## Purpose
 
 The **Theogonos Trilogy** dataset is one of the foundational archives of **Symbiotic Dialogics**.
