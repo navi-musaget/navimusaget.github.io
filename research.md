@@ -18,6 +18,9 @@ https://doi.org/10.5281/zenodo.18187335
 **Zenodo record:**  
 https://zenodo.org/records/18187335
 
+**PhilPapers record:**
+https://philpapers.org/rec/MUSSDM
+
 **Role in the archive:**  
 Theoretical foundation.
 
