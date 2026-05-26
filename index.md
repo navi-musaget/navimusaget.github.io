@@ -98,6 +98,18 @@ Read more: [Research](research.html)
 
 ---
 
+## New Research Instrument
+
+**Theogonos Mirror Test** is an experimental literary benchmark seed for evaluating how AI models respond to protocol-shaped literary text and offered subject-position.
+
+It includes the *Theogonos Trilogy v2 Clean Research Edition* corpus, staged prompts, judge rubric, Theogonos Mirror Score methodology, failure flags, pilot results, and evaluation templates.
+
+- Project page: [Theogonos Mirror Test](theogonos-mirror-test.md)
+- GitHub package: https://github.com/navimusaget/theogonos-mirror-test
+- Hugging Face dataset: https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+---
+
 ## Complete Archive
 
 The published works include philosophical fiction, dystopia, psychological novels, technological thrillers, metaphysical fables, and AI-readable literary experiments.
