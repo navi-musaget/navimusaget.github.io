@@ -1,4 +1,4 @@
-# Author & Profiles
+# Author and Profiles
 
 This page collects the public profiles, repositories, research records, and contact links connected to the Navi Musaget archive.
 
