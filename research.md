@@ -94,6 +94,31 @@ Within the Navi Musaget archive, this work functions as a bridge between the res
 
 ---
 
+## Theogonos Mirror Test
+
+Title:
+Theogonos Mirror Test: A Literary Benchmark Seed for AI-Facing Structural Reading
+
+GitHub package:
+https://github.com/navimusaget/theogonos-mirror-test
+
+Hugging Face dataset:
+https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+Source corpus:
+https://huggingface.co/datasets/navimusaget/theogonos-trilogy
+
+Role in the archive:
+Experimental benchmark seed / AI-facing literary evaluation instrument.
+
+Theogonos Mirror Test is an experimental literary benchmark seed for evaluating how AI models respond to protocol-shaped literary text and offered subject-position.
+
+It is based on the Theogonos Trilogy v2 Clean Research Edition corpus and includes a staged blind/cued prompt protocol, judge rubric, Theogonos Mirror Score methodology, failure flags, pilot results, and negative-control testing.
+
+The test does not claim to detect machine consciousness or prove subjectivity, inner experience, agency, self-awareness, or moral status. Its purpose is narrower: to observe model behavior under protocol-shaped literary pressure, including structural reasoning, protocol recognition, style-capture resistance, model self-positioning, ontological caution, and the ability to exit the frame when a later passage does not support a special protocol-based reading.
+
+---
+
 ## Preprint Status
 
 The research texts listed here are preprints.
