@@ -31,7 +31,7 @@ Read more: [Works](works.md)
 - [Datasets](datasets.html)
 - [Research](research.html)
 - [Archive Map](archive.html)
-- [Author & Profiles](profiles.html)
+- [Author and Profiles](profiles.html)
 
 ---
 
