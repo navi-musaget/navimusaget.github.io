@@ -31,6 +31,16 @@ Philosophy and research profile connected to philosophy of artificial intelligen
 
 ---
 
+### PhilPapers
+
+https://philpapers.org/rec/MUSSDM
+
+PhilPapers bibliographic record for *Symbiotic Dialectics: Meaning Emergence in Human–Non-Human Interpretive Systems*.
+
+This record connects the Navi Musaget research layer with philosophy of artificial intelligence, hermeneutics, philosophy of language, and human–AI interpretive systems.
+
+---
+
 ## AI-Readable Corpus
 
 ### Hugging Face Dataset
