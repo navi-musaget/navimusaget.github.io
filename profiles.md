@@ -51,6 +51,25 @@ The **Theogonos Trilogy** dataset functions as an AI-readable philosophical fict
 
 ---
 
+## Experimental Benchmark Seed
+
+### Theogonos Mirror Test
+
+Project page:  
+https://navimusaget.github.io/theogonos-mirror-test.html
+
+GitHub repository:  
+https://github.com/navimusaget/theogonos-mirror-test
+
+Hugging Face dataset:  
+https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+Theogonos Mirror Test v0.1 is an experimental literary benchmark seed for observing how language models respond to protocol-shaped literary text, ambiguity, address, role, refusal, and offered reader positions.
+
+It is not a consciousness test or a validated benchmark suite. It is a public research instrument prototype connected to the AI-readable literary corpus layer of the Navi Musaget archive.
+
+---
+
 ## Research Records
 
 ### Zenodo
