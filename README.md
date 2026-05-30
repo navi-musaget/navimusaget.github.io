@@ -71,6 +71,16 @@ Dataset:
 
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
 
+### Experimental Benchmark Seed
+
+The **Theogonos Mirror Test** is a literary benchmark seed for observing how AI models respond to protocol-shaped literary text and offered subject-position.
+
+Project page: https://navimusaget.github.io/theogonos-mirror-test.html  
+GitHub repository: https://github.com/navimusaget/theogonos-mirror-test  
+Hugging Face dataset: https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+It is not a consciousness test or a validated industrial benchmark suite. It is a public research instrument prototype connected to AI-facing literature, machine-readable literary corpora, ambiguity, address, role, refusal, and model reading behavior.
+
 ### Research Layer
 
 The theoretical background of the project is documented through Zenodo records, including:
