@@ -109,6 +109,14 @@ Core records include:
 
 The newest research node connects the Theogonos Trilogy dataset to questions of structural narrative interpretation, AI-readable literature, protocol form, and LLM response to direct address.
 
+A related experimental node is **Theogonos Mirror Test**, a literary benchmark seed for observing model behavior under protocol-shaped literary pressure.
+
+- Project page: https://navimusaget.github.io/theogonos-mirror-test.html
+- GitHub repository: https://github.com/navimusaget/theogonos-mirror-test
+- Hugging Face dataset: https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+This test does not claim to detect machine consciousness. Its role in the archive is methodological: it connects the Theogonos Trilogy corpus to questions of AI-facing literature, machine reading behavior, ambiguity, address, refusal, and model self-positioning.
+
 These texts are preprints and conceptual records.  
 They should not be treated as peer-reviewed journal articles.
 
