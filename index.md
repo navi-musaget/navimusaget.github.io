@@ -87,8 +87,17 @@ Read more: [Datasets](datasets.md)
 
 ## Research Layer
 
-The theoretical layer of the project is documented through Zenodo preprints, including:
+### New Research Monograph
 
+**After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence**
+
+A conceptual-normative monograph on moral status, post-necessity human–AI coexistence, protected autonomy, and constitutional constraints on irreversible power.
+
+[PhilPapers](https://philpapers.org/rec/MUSANA-3) · [Zenodo DOI](https://doi.org/10.5281/zenodo.20732462)
+
+The theoretical layer of the project is documented through Zenodo preprints and conceptual records, including:
+
+- **After Necessity**
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
 - **Contextual Proto-Subjectivity in Artificial Intelligence**

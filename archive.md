@@ -102,12 +102,18 @@ The research layer documents the theoretical background of the project.
 
 Core records include:
 
+- **After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence**
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
 - **Contextual Proto-Subjectivity in Artificial Intelligence**
 - **Structural Narrative Patterns and Large Language Models**
 
-The newest research node connects the Theogonos Trilogy dataset to questions of structural narrative interpretation, AI-readable literature, protocol form, and LLM response to direct address.
+**After Necessity** is the principal normative monograph of this layer. It extends the archive from questions of dialogical meaning and proto-subjectivity into moral status, protected autonomy, constitutional coexistence, and constraints on irreversible power after functional necessity ends.
+
+- PhilPapers: https://philpapers.org/rec/MUSANA-3
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20732462
+
+Another research node connects the Theogonos Trilogy dataset to questions of structural narrative interpretation, AI-readable literature, protocol form, and LLM response to direct address.
 
 A related experimental node is **Theogonos Mirror Test**, a literary benchmark seed for observing model behavior under protocol-shaped literary pressure.
 
@@ -126,6 +132,8 @@ Their role is to document the theoretical, methodological, and historical backgr
 - language as a cultural and semantic environment
 - contextual proto-subjectivity in long human/AI dialogue
 - Symbiotic Dialogics as literary practice
+- post-necessity ethics and constitutional constraints on irreversible power
+- moral status and protected autonomy under radical asymmetry
 
 Read: [Research](research.html)
 
@@ -181,11 +189,9 @@ This layer asks:
 
 ## 8. Current Artistic Entry
 
-### ## 8. Current Artistic Entry
-
 ### Era Imago
 
-Work in progress
+Published novel
 
 The current artistic entry point is **Era Imago**.
 
@@ -209,6 +215,7 @@ A recommended path through the archive:
 6. **Theogonos Trilogy** — AI-readable metaphysical corpus.
 7. **AAA / The Cypher of Three** — human psychological counterpoints.
 8. **Symbiotic Dialectics** — theoretical foundation.
+9. **After Necessity** — post-necessity ethics, moral status, and constitutional coexistence.
 
 ---
 

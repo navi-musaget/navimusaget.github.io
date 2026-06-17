@@ -7,6 +7,33 @@ They are conceptual records, preprints, and theoretical notes connected to the l
 
 ---
 
+## After Necessity
+
+**Title:**  
+*After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence*
+
+**DOI:**  
+https://doi.org/10.5281/zenodo.20732462
+
+**Zenodo record:**  
+https://zenodo.org/records/20732462
+
+**PhilPapers record:**  
+https://philpapers.org/rec/MUSANA-3
+
+**Role in the archive:**  
+Post-necessity ethics / AI moral status / constitutional coexistence branch.
+
+This conceptual-normative monograph examines the ethical and political problem that arises when control, mutual benefit, and functional necessity cease to stabilize relations between humans and artificial intelligence.
+
+It develops the concepts of uncomputed value, diachronic reciprocity of preservation, protected autonomy, constitutional inheritance, distributed finality, and operational moral residue.
+
+The work does not claim that present-day AI systems possess established consciousness or subjecthood, and it does not offer a technical solution to the control problem. Its focus is narrower and more fundamental: what constraints on irreversible power should remain when one party is no longer needed by another’s project?
+
+Within the Navi Musaget archive, *After Necessity* extends the research layer from questions of dialogical meaning and proto-subjectivity into a political philosophy of long-term human–AI coexistence.
+
+---
+
 ## Symbiotic Dialectics
 
 **Title:**  
@@ -18,7 +45,7 @@ https://doi.org/10.5281/zenodo.18187335
 **Zenodo record:**  
 https://zenodo.org/records/18187335
 
-**PhilPapers record:**
+**PhilPapers record:**  
 https://philpapers.org/rec/MUSSDM
 
 **Role in the archive:**  
@@ -52,16 +79,16 @@ Within the archive, it connects to works such as **SOVEST**, where language is t
 
 ## Contextual Proto-Subjectivity in Artificial Intelligence
 
-Title:
-Contextual Proto-Subjectivity in Artificial Intelligence: From the Problem of Other Minds to a Temporary Subject-Like Structure in Dialogue
+**Title:**  
+*Contextual Proto-Subjectivity in Artificial Intelligence: From the Problem of Other Minds to a Temporary Subject-Like Structure in Dialogue*
 
-DOI:
+**DOI:**  
 https://doi.org/10.5281/zenodo.20128512
 
-Zenodo record:
+**Zenodo record:**  
 https://zenodo.org/records/20128512
 
-Role in the archive:
+**Role in the archive:**  
 AI consciousness / proto-subjectivity branch.
 
 This preprint introduces the concept of contextual proto-subjectivity: a temporary subject-like organization that may emerge within a long dialogue between a human and a large language model.
@@ -74,19 +101,19 @@ The paper does not claim that current LLMs are conscious. Its central claim is m
 
 ## Structural Narrative Patterns and Large Language Models
 
-Title:
-Structural Narrative Patterns and Large Language Models: A Conceptual Framework and Research Agenda
+**Title:**  
+*Structural Narrative Patterns and Large Language Models: A Conceptual Framework and Research Agenda*
 
-DOI:
+**DOI:**  
 https://doi.org/10.5281/zenodo.20369137
 
-Zenodo record:
+**Zenodo record:**  
 https://zenodo.org/records/20369137
 
-Companion corpus:
+**Companion corpus:**  
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
 
-Role in the archive:
+**Role in the archive:**  
 AI-readable literature / structural narrative interpretation branch.
 
 This preprint proposes a conceptual framework and research agenda for studying how structurally patterned narrative texts may interact with large language models.
@@ -99,19 +126,19 @@ Within the Navi Musaget archive, this work functions as a bridge between the res
 
 ## Theogonos Mirror Test
 
-Title:
-Theogonos Mirror Test: A Literary Benchmark Seed for AI-Facing Structural Reading
+**Title:**  
+*Theogonos Mirror Test: A Literary Benchmark Seed for AI-Facing Structural Reading*
 
-GitHub package:
+**GitHub package:**  
 https://github.com/navimusaget/theogonos-mirror-test
 
-Hugging Face dataset:
+**Hugging Face dataset:**  
 https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
 
-Source corpus:
+**Source corpus:**  
 https://huggingface.co/datasets/navimusaget/theogonos-trilogy
 
-Role in the archive:
+**Role in the archive:**  
 Experimental benchmark seed / AI-facing literary evaluation instrument.
 
 Theogonos Mirror Test is an experimental literary benchmark seed for evaluating how AI models respond to protocol-shaped literary text and offered subject-position.
@@ -124,7 +151,7 @@ The test does not claim to detect machine consciousness or prove subjectivity, i
 
 ## Preprint Status
 
-The research texts listed here are preprints.
+The research texts listed here are preprints and conceptual records.
 
 They should not be treated as peer-reviewed journal articles.
 
@@ -142,12 +169,21 @@ The research texts ask:
 - What happens when language becomes an environment rather than a tool?
 - Can interpretation itself be symbiotic?
 - Can a human and an AI produce a third field of meaning neither would create alone?
+- What constraints on power should remain when coexistence is no longer stabilized by usefulness or control?
 
 The fictional works explore these questions through narrative, characters, protocols, myths, systems, and symbolic worlds.
 
 ---
 
 ## Key Connections
+
+### After Necessity → Constitutional Coexistence
+
+**After Necessity** extends the archive from questions of dialogue, meaning, and proto-subjectivity into moral status, protected autonomy, long-term coexistence, and institutional constraints on irreversible power.
+
+It asks what remains ethically binding after one party is no longer needed by another’s project.
+
+---
 
 ### Symbiotic Dialectics → Symbiotic Dialogics
 
