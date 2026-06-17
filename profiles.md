@@ -23,6 +23,14 @@ The ORCID record connects the author identity with research records, datasets, a
 
 ---
 
+### Google Scholar
+
+https://scholar.google.com/citations?user=FrWzs34AAAAJ
+
+Google Scholar profile for research publications, citation tracking, and future h-index and i10-index records connected to Navi Musaget.
+
+---
+
 ### PhilPeople
 
 https://philpeople.org/profiles/navi-musaget
