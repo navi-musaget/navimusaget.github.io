@@ -32,6 +32,7 @@ Read more: [Works](works.md)
 - [Research](research.html)
 - [Archive Map](archive.html)
 - [Author and Profiles](profiles.html)
+- [Personal Continuity Protocol](personal-continuity-protocol.html)
 
 ---
 
@@ -116,6 +117,18 @@ It includes the *Theogonos Trilogy v2 Clean Research Edition* corpus, staged pro
 - Project page: [Theogonos Mirror Test](theogonos-mirror-test.md)
 - GitHub package: https://github.com/navimusaget/theogonos-mirror-test
 - Hugging Face dataset: https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
+
+---
+
+## Personal Continuity Protocol
+
+**Personal Continuity Protocol v1.0** is an open continuity architecture for preserving evidence of personal rights, authorship, work, reputation and will across institutional, digital, legal and material rupture.
+
+Core Paper DOI: [10.5281/zenodo.20759434](https://doi.org/10.5281/zenodo.20759434)  
+GitHub repository: [navimusaget/personal-continuity-protocol](https://github.com/navimusaget/personal-continuity-protocol)  
+Seed Package DOI: [10.5281/zenodo.20761140](https://doi.org/10.5281/zenodo.20761140)
+
+Read more: [Personal Continuity Protocol](personal-continuity-protocol.html)
 
 ---
 
