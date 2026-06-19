@@ -149,6 +149,26 @@ The test does not claim to detect machine consciousness or prove subjectivity, i
 
 ---
 
+## Personal Continuity Protocol
+
+**Title:** *Personal Continuity Protocol v1.0: Insurance Against Rupture*  
+**Author:** Navi Musaget  
+**Publication date:** 19 June 2026  
+**Core Paper DOI:** [10.5281/zenodo.20759434](https://doi.org/10.5281/zenodo.20759434)  
+**Zenodo record:** [zenodo.org/records/20759434](https://zenodo.org/records/20759434)  
+**GitHub repository:** [navimusaget/personal-continuity-protocol](https://github.com/navimusaget/personal-continuity-protocol)  
+**Seed Package DOI:** [10.5281/zenodo.20761140](https://doi.org/10.5281/zenodo.20761140)  
+**Project page:** [Personal Continuity Protocol](personal-continuity-protocol.html)  
+**Role in the archive:** Legal/protocol architecture branch.
+
+The Personal Continuity Protocol is an open architectural framework for preserving evidence of personal continuity across institutional, digital, legal and material rupture.
+
+It does not replace states, courts, notaries, inheritance law, KYC/AML, medical law or platform governance. Instead, it proposes a continuity layer between them: a structured way to preserve portable, timestamped, witnessable, material and court-readable evidence against erasure.
+
+Within the Navi Musaget archive, this protocol extends the research layer from AI-facing literature and symbiotic interpretation into continuity, authorship, legal identity, evidence preservation and institutional rupture.
+
+---
+
 ## Preprint Status
 
 The research texts listed here are preprints and conceptual records.
