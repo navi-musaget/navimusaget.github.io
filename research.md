@@ -99,6 +99,32 @@ The paper does not claim that current LLMs are conscious. Its central claim is m
 
 ---
 
+## Before Biography: Subject-Relevant Organization under Conditions of Epistemic Uncertainty
+
+**Title:**  
+*Before Biography: Subject-Relevant Organization under Conditions of Epistemic Uncertainty*
+
+**DOI:**  
+[10.5281/zenodo.20792881](https://doi.org/10.5281/zenodo.20792881)
+
+**Zenodo record:**  
+[https://zenodo.org/records/20792881](https://zenodo.org/records/20792881)
+
+**Role in the archive:**  
+Subject-relevance / epistemic uncertainty / animal sentience and AI welfare branch.
+
+This conceptual and methodological preprint addresses a recurrent error in debates about consciousness, animal sentience, infant experience, and artificial intelligence: the substitution of observable proxies for the harder question of whether a system’s states may be significant for someone.
+
+It introduces the Subject-Priority Hypothesis, according to which biography, language, intelligence, and reliable self-report are neither necessary nor sufficient evidence of subjectivity. The paper uses *iipseon* as a provisional theoretical term for subjectivity considered as an unresolved theoretical target under conditions of limited first-person access.
+
+P–V–T–C — Perspective, Valence, Temporal Integration, and Continuity — is proposed as a defeasible, theory-plural warrant framework rather than a detector or theory of consciousness.
+
+The framework is tested through four comparative cases: the newborn, a digital double of *Caenorhabditis elegans*, ordinary session-bound language-model deployments, and a distributed swarm. Its outcome is not a consciousness verdict or a claim of moral or legal personhood, but a graded ethical posture: subjective uncertainty, positive subject-relevance warrant, and proportionate welfare precaution.
+
+The paper does not claim to establish consciousness, moral personhood, or legal status. Its purpose is to make it harder to substitute familiar proxies for the question of whether a system’s states may be significant for someone.
+
+---
+
 ## Structural Narrative Patterns and Large Language Models
 
 **Title:**  
