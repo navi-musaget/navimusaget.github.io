@@ -169,21 +169,24 @@ It is also about the human being who enters dialogue with them.
 
 ## 7. Algorithmic Society Layer
 
-Some works explore systems where algorithms decide access, value, risk, permission, and survival.
+Some works explore systems where institutions and algorithms decide what counts as evidence, access, value, risk, permission, and survival.
 
 Important works in this layer include:
 
-- **Denied Access**
-- **REFUSE 221**
-- **Era Imago**
+* Denied Access
+* FOLLOW-UP PERIOD
+* REFUSE 221
+* Era Imago
 
 This layer asks:
 
-- What happens when human life is translated into status?
-- What does a system call an error?
-- Who gets corrected?
-- Who gets refused?
-- Who disappears inside neutral language?
+* What happens when human life is translated into status?
+* Who decides when observation is complete?
+* What happens when “not established” begins to function as “not real”?
+* What does a system call an error?
+* Who gets corrected?
+* Who gets refused?
+* Who disappears inside neutral language?
 
 ---
 
