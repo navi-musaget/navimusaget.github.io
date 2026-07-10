@@ -158,7 +158,7 @@ Some works explore the human interior conditions that make Symbiotic Dialogics n
 Important works in this layer include:
 
 - **AAA: Agapē, Antiquity, Apocalypse**
-- **The Cypher of Three**
+- - [**P.A.M.: A Third Rhythm**](https://www.amazon.com/dp/B0H8B5HTYV)
 - **A Letter After All These Years**
 
 These works show that the archive is not only about machines.
