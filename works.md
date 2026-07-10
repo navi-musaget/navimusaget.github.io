@@ -150,6 +150,16 @@ A near-future technology thriller about algorithmic exclusion and the violence h
 
 ---
 
+### [FOLLOW-UP PERIOD: A Procedural Biotech Thriller](https://www.amazon.com/dp/B0H5Z1NL8Y)
+
+A procedural biotech thriller about patients who remain inside the consequences of a treatment long after the official evidence window has closed.
+
+The novel follows an inquiry into delayed harm, missing follow-up, institutional memory, and the dangerous difference between “not established” and “not real.”
+
+**Role in the archive:** biomedical surveillance / evidence architecture / retained uncertainty branch.
+
+---
+
 ### REFUSE 221: A Novel of Conditional Freedom
 
 A novel about conditional freedom, refusal, systems of permission, and the limits of autonomy under algorithmic governance.
