@@ -213,7 +213,7 @@ A recommended path through the archive:
 4. **SOVEST** — language, conscience, and untranslatability.
 5. **LLUN** — question, memory, and refusal of deletion.
 6. **Theogonos Trilogy** — AI-readable metaphysical corpus.
-7. **AAA / The Cypher of Three** — human psychological counterpoints.
+7. **AAA / P.A.M.: A Third Rhythm** — human psychological counterpoints.
 8. **Symbiotic Dialectics** — theoretical foundation.
 9. **After Necessity** — post-necessity ethics, moral status, and constitutional coexistence.
 
