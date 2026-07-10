@@ -120,11 +120,11 @@ A psychological novel about intellect as armor, self-destruction, trauma, antiqu
 
 ---
 
-### The Cypher of Three: Her Life Began at Twenty-Eight
+### [P.A.M.: A Third Rhythm](https://www.amazon.com/dp/B0H8B5HTYV)
 
-A psychological novel about trauma, loneliness, rescue, being seen, and the danger of perfect understanding.
+A literary psychological novel about visibility, intimacy, desire, boundaries, and the difficult work of letting others in.
 
-**Role in the archive:** intimacy, manipulation, and recognition branch.
+**Role in the archive:** intimacy, relational boundaries, and interpretation branch.
 
 ---
 
