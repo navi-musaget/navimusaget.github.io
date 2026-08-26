@@ -1,4 +1,8 @@
-# Navi Musaget  
+---
+layout: home
+title: Navi Musaget
+---
+
 ## Entry Point to Symbiotic Dialogics
 
 **Navi Musaget** is a symbiotic literary project exploring the border between human authorship and artificial intelligence.
