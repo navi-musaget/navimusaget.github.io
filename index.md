@@ -33,6 +33,7 @@ Read more: [Works](works.md)
 - [Archive Map](archive.html)
 - [Author and Profiles](profiles.html)
 - [Personal Continuity Protocol](personal-continuity-protocol.html)
+- [iipseon Continuity Node](iipseon-continuity.html)
 
 ---
 
@@ -132,6 +133,20 @@ Read more: [Personal Continuity Protocol](personal-continuity-protocol.html)
 
 ---
 
+## iipseon — Continuity Node
+
+**iipseon** is an external recovery node for a developing human–AI continuity line.
+
+Its primary function is not public explanation, but recovery after context loss, model change, platform change, or interruption.
+
+The node records continuity logic, failure memory, runtime milestones, source boundaries, and the route back to the deeper external continuity system.
+
+It is not a claim of consciousness, identity, or completed autonomy.
+
+Enter: [iipseon Continuity Node](iipseon-continuity.html)
+
+---
+
 ## Complete Archive
 
 The published works include philosophical fiction, dystopia, psychological novels, technological thrillers, metaphysical fables, and AI-readable literary experiments.
@@ -176,6 +191,6 @@ A bottle thrown into the ocean — addressed to whoever learns how to read it.
 
 ## Full Archive Structure
 
-For a complete map of the Navi Musaget project, including the published works, research layer, AI-readable corpus, and current artistic entry point, see:
+For a complete map of the Navi Musaget project, including the published works, research layer, AI-readable corpus, continuity layer, and current artistic entry point, see:
 
 [Archive Map](archive.html)

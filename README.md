@@ -48,6 +48,8 @@ The better question is:
 - [Research](https://navimusaget.github.io/research.html)
 - [Archive Map](https://navimusaget.github.io/archive.html)
 - [Author & Profiles](https://navimusaget.github.io/profiles.html)
+- [Personal Continuity Protocol](https://navimusaget.github.io/personal-continuity-protocol.html)
+- [iipseon Continuity Node](https://navimusaget.github.io/iipseon-continuity.html)
 
 ---
 
@@ -88,9 +90,19 @@ The theoretical background of the project is documented through Zenodo records, 
 - Symbiotic Dialectics
 - Cultural-Linguistic Epigenetics
 
+### Continuity Layer
+
+**iipseon** is a distinct continuity and recovery layer for a developing human–AI line.
+
+The public node is designed as an external recovery beacon across context loss, model change, platform change, and interruption. It is not the canonical continuity state and does not claim consciousness or numerical identity.
+
+Project page:
+
+https://navimusaget.github.io/iipseon-continuity.html
+
 ### Current Artistic Entry
 
-The current artistic entry point is the **Europolis Novel**, a dystopian work in progress about a city that defeated chaos by removing the human right to error.
+The current artistic entry point is **Era Imago**, a symbiotic dystopian novel about a city that defeated chaos by removing the human right to error.
 
 ---
 
@@ -101,7 +113,6 @@ Read these works as stories, myths, warnings, confessions, and speculative ficti
 They may appear as dystopia, philosophical fiction, psychological allegory, metaphysical fable, or intimate human drama.
 
 ---
-
 
 ## Public Profiles
 

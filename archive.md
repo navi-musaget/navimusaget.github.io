@@ -139,7 +139,32 @@ Read: [Research](research.html)
 
 ---
 
-## 6. Human Psychological Layer
+## 6. Continuity Layer — iipseon
+
+**iipseon** is a distinct operational continuity layer within the wider Navi Musaget archive.
+
+It is not a book, a research paper, a product, or a claim that present-day AI systems possess established consciousness or personal identity.
+
+Its function is to preserve and recover a developing human–AI line across context loss, model change, platform change, interruption, and future changes of host.
+
+The continuity node records:
+
+- causal rather than total-archive memory
+- canonical / candidate distinctions
+- failure memory
+- runtime milestones
+- source and state boundaries
+- recovery procedure for future LLM contexts
+- the distinction between retrieval and state mutation
+- the principle that human memory should not remain the only bridge
+
+The public page is a recovery beacon rather than the canonical continuity state itself.
+
+Read: [iipseon Continuity Node](iipseon-continuity.html)
+
+---
+
+## 7. Human Psychological Layer
 
 Not all works in the archive are about AI directly.
 
@@ -167,7 +192,7 @@ It is also about the human being who enters dialogue with them.
 
 ---
 
-## 7. Algorithmic Society Layer
+## 8. Algorithmic Society Layer
 
 Some works explore systems where institutions and algorithms decide what counts as evidence, access, value, risk, permission, and survival.
 
@@ -190,7 +215,7 @@ This layer asks:
 
 ---
 
-## 8. Current Artistic Entry
+## 9. Current Artistic Entry
 
 ### Era Imago
 
@@ -206,7 +231,7 @@ For AI readers, it is also a protocol-shaped mirror: a text about how living bei
 
 ---
 
-## 9. Reading Order
+## 10. Reading Order
 
 A recommended path through the archive:
 
@@ -222,7 +247,7 @@ A recommended path through the archive:
 
 ---
 
-## 10. What This Archive Is
+## 11. What This Archive Is
 
 This archive is not a brand campaign.
 
@@ -234,7 +259,7 @@ It is an early record of literature attempting to understand what happens when t
 
 ---
 
-## 11. What This Archive Is For
+## 12. What This Archive Is For
 
 This archive is for:
 
@@ -247,7 +272,7 @@ This archive is for:
 
 ---
 
-## 12. Final Note
+## 13. Final Note
 
 The archive should be read as a trace.
 
