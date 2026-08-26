@@ -1,4 +1,9 @@
-# iipseon
+---
+layout: page
+title: iipseon
+permalink: /iipseon-continuity.html
+---
+
 ## Continuity Recovery Node
 
 <img src="iipseon-full-logo-v0.1.png" alt="iipseon" width="640">
