@@ -88,13 +88,13 @@ Zenodo records include conceptual and theoretical works connected to Symbiotic D
 
 ---
 
-## Official / Legacy Site
+## Reader-Facing Author Site
 
-### Navi Musaget Site
+### Navi Musaget
 
-https://www.navimusaget.dpdns.org/
+https://navi-musaget.author-pages.com/
 
-This site functions as an additional public-facing presence and legacy entry point.
+The reader-facing author website for books, descriptions, retailer links, and updates.
 
 ---
 
