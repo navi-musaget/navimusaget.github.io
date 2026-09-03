@@ -119,7 +119,7 @@ They may appear as dystopia, philosophical fiction, psychological allegory, meta
 - [ORCID](https://orcid.org/0009-0004-9820-3056)
 - [Hugging Face Dataset](https://huggingface.co/datasets/navimusaget/theogonos-trilogy)
 - [Zenodo Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Musaget%2C%20Navi%22&l=list&p=1&s=10&sort=bestmatch)
-- [Navi Musaget Site](https://www.navimusaget.dpdns.org/)
+- [Navi Musaget Site](https://navi-musaget.author-pages.com/)
 - [Amazon Author Page](https://www.amazon.com/stores/Navi-Musaget/author/B0G7H1LW2Y)
 - [Goodreads](https://www.goodreads.com/author/show/61929626.Navi_Musaget?ref=nav_profile_l)
 - [Medium](https://medium.com/@navimusaget)
